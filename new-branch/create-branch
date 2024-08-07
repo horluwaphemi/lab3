@@ -1,0 +1,6 @@
+git checkout -b devops-branch  # to create a new branch with name devops-branch.
+git branch # to check your branches.
+git checkout "name of branch"      # to switch to another branch.
+git diff "second branch name"  # to compare two branches.
+git merge "the name of the second branch" # merging to changes/codes.
+git branch -d "branch name" # to delete a branch.
